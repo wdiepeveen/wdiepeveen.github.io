@@ -1,9 +1,9 @@
 ---
 title: "Curvature Corrected Tangent Space-based Approximation of Manifold-valued Data"
-date: 2023-11-01 00:01:00 +0800
+date: 2025-12-05 00:01:00 +0800
 selected: true
-pub: "Preprint (accepted to Information and Inference)"
-pub_date: "2023"
+pub: " Information and Inference: A Journal of the IMA"
+pub_date: "2025"
 abstract: >-
   Efficient tangent space methods for dimension reduction of non-Euclidean data with systematic curvature correction.
 authors:
@@ -11,6 +11,6 @@ authors:
 - Joyce Chew
 - Deanna Needell
 links:
-  Paper: https://arxiv.org/abs/2306.00507
+  Paper: https://academic.oup.com/imaiai/article/14/4/iaaf031/8369185?utm_source=authortollfreelink&utm_campaign=imaiai&utm_medium=email
   Code: https://github.com/wdiepeveen/manifold-valued-tensors
 ---
