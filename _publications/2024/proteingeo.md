@@ -2,11 +2,11 @@
 title: "Riemannian Geometry for Efficient Analysis of Protein Dynamics Data"
 date: 2024-08-01 00:01:00 +0800
 selected: true
+themes: [ddrg, apps]
 pub: "Proceedings of the National Academy of Sciences"
 pub_date: "2024"
 abstract: >-
   Demonstrates how Riemannian geometry enables fast analysis of protein dynamics, retrieving conformational transitions efficiently.
-# cover: /assets/images/covers/pnas.jpg
 authors:
 - Willem Diepeveen
 - Carlos Esteve-Yague

@@ -2,6 +2,7 @@
 title: "Pullback Flow Matching on Data Manifolds"
 date: 2025-07-15 00:01:00 +0800
 selected: false
+themes: [apps]
 pub: "ICML Generative AI and Biology (GenBio) Workshop"
 pub_date: "2025"
 abstract: >-

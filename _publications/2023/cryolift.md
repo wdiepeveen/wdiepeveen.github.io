@@ -2,6 +2,7 @@
 title: "Regularizing Orientation Estimation in Cryogenic Electron Microscopy: Three-Dimensional Map Refinement through Measure-Based Lifting over Riemannian Manifolds"
 date: 2023-09-01 00:01:00 +0800
 selected: false
+themes: [odm,apps]
 pub: "SIAM Journal on Imaging Sciences"
 pub_date: "2023"
 abstract: >-

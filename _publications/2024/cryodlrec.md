@@ -2,6 +2,7 @@
 title: "Physics-informed Geometric Regularization of Heterogeneous Reconstructions in Cryo-EM"
 date: 2024-05-01 00:01:00 +0800
 selected: false
+themes: [apps]
 pub: "ICLR Workshop on Generative and Experimental Perspectives for Biomolecular Design"
 pub_date: "2024"
 abstract: >-

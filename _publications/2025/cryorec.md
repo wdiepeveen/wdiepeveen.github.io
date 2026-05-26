@@ -2,6 +2,7 @@
 title: "Direct Atomistic Reconstruction in Homogeneous Cryo-EM Using Protein Geometry Regularization"
 date: 2025-05-01 00:01:00 +0800
 selected: false
+themes: [apps]
 pub: "SSVM 2025"
 pub_date: "2025"
 abstract: >-

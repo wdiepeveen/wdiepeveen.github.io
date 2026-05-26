@@ -7,6 +7,7 @@ university: "UCLA"
 semesters:
   - "Fall 2024"
   - "Spring 2025"
+  - "Spring 2026"
 abstract: >-
   Covering introductory continuous optimization.
 instructors:

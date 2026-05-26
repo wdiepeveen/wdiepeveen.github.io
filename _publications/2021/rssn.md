@@ -2,6 +2,7 @@
 title: "An Inexact Semismooth Newton Method on Riemannian Manifolds with Application to Duality-Based Total Variation Denoising"
 date: 2021-11-01 00:01:00 +0800
 selected: false
+themes: [odm]
 pub: "SIAM Journal on Imaging Sciences"
 pub_date: "2021"
 abstract: >-

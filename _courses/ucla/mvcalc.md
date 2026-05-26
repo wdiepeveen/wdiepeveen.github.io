@@ -6,6 +6,7 @@ level: "Lower division"
 university: "UCLA"
 semesters:
   - "Winter 2025"
+  - "Winter 2026"
 abstract: >-
   Covering integration in multiple dimensions.
 instructors:

@@ -1,14 +1,67 @@
 {% assign publications = include.publications %}
+
 <div class="my-3 p-0 bg-white shadow-sm rounded-xl">
     <h6 class="border-bottom border-gray p-3 mb-0">
-        {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-star"></i> Selected Recent Publications{% endif %} 
+        {% if include.title %}{{ include.title }}{% else %}<i class="fas fa-star"></i> Selected Recent Publications{% endif %}
         <a href="{{ 'publications' | relative_url }}">(view all <i class="fas fa-angle-double-right"></i>)</a>
     </h6>
-    {% for item in publications limit:include.limit %}
-        {% include widgets/publication_item.html item=item first=false last=false %}    
-    {% endfor %}
+
+    <div class="px-3 pt-3 pb-2 border-bottom border-gray">
+        <div class="small text-muted mb-2"><strong>Filter by theme:</strong></div>
+        <div class="d-flex flex-wrap" style="gap: 0.5rem;">
+            <button type="button"
+                    class="btn btn-sm btn-dark publication-filter-btn active"
+                    data-theme="all">
+                All
+            </button>
+
+            {% for pair in site.data.themes %}
+                {% assign key = pair[0] %}
+                {% assign theme = pair[1] %}
+                <button type="button"
+                        class="btn btn-sm btn-outline-secondary publication-filter-btn"
+                        data-theme="{{ key }}"
+                        title="{{ theme.full }}">
+                    {{ theme.full }}
+                </button>
+            {% endfor %}
+        </div>
+    </div>
+
+    <div id="selected-publications-list">
+        {% for item in publications limit:include.limit %}
+            {% include widgets/publication_item.html item=item first=forloop.first last=forloop.last %}
+        {% endfor %}
+    </div>
+
     <h6 class="d-block p-3 mt-0 text-right">
         <a href="{{ 'publications' | relative_url }}">All publications <i class="fas fa-angle-double-right"></i></a>
     </h6>
 </div>
 
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var buttons = document.querySelectorAll('.publication-filter-btn');
+    var items = document.querySelectorAll('.publication-entry');
+
+    buttons.forEach(function (button) {
+        button.addEventListener('click', function () {
+            var theme = this.getAttribute('data-theme');
+
+            buttons.forEach(function (btn) {
+                btn.classList.remove('active', 'btn-dark');
+                btn.classList.add('btn-outline-secondary');
+            });
+
+            this.classList.add('active', 'btn-dark');
+            this.classList.remove('btn-outline-secondary');
+
+            items.forEach(function (item) {
+                var themes = (item.getAttribute('data-themes') || '').split(' ');
+                var show = (theme === 'all') || themes.indexOf(theme) !== -1;
+                item.style.display = show ? '' : 'none';
+            });
+        });
+    });
+});
+</script>

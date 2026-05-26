@@ -2,6 +2,7 @@
 title: "Spectral Decomposition of Atomic Structures in Heterogeneous Cryo-EM"
 date: 2023-03-01 00:01:00 +0800
 selected: false
+themes: [apps]
 pub: "Inverse Problems"
 pub_date: "2023"
 abstract: >-

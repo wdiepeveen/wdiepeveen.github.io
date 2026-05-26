@@ -90,3 +90,31 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.publication-theme-pill {
+  font-weight: 500;
+  border: 1px solid transparent;
+}
+
+.theme-ddrg {
+  background-color: #e6f4f1;
+  color: #1f5c55 !important;
+  border-color: #c7e7e1;
+}
+
+.theme-rrl {
+  background-color: #eef1fb;
+  color: #43538a !important;
+  border-color: #d9e0f5;
+}
+
+.theme-odm {
+  background-color: #f4efe5;
+  color: #7a5a1e !important;
+  border-color: #e8dcc3;
+}
+
+.theme-apps {
+  background-color: #f3eaf7;
+  color: #6f3f86 !important;
+  border-color: #e2cfee;
+}

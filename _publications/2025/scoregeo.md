@@ -2,6 +2,7 @@
 title: "Score-based Pullback Riemannian Geometry: Extracting the Data Manifold Geometry using Anisotropic Flows"
 date: 2025-07-15 00:01:00 +0800
 selected: true
+themes: [ddrg,rrl]
 pub: "ICML"
 pub_date: "2025"
 abstract: >-

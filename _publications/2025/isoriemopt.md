@@ -2,6 +2,7 @@
 title: "Iso-Riemannian Optimization on Learned Data Manifolds"
 date: 2025-10-01 00:01:00 +0800
 selected: true
+themes: [odm]
 pub: "Preprint"
 pub_date: "2025"
 abstract: >-

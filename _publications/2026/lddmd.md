@@ -2,6 +2,7 @@
 title: "Latent Diffeomorphic Dynamic Mode Decomposition"
 date: 2026-01-02 00:01:00 +0800
 selected: false
+themes: [apps]
 pub: "Applied Mathematics Letters"
 pub_date: "2026"
 abstract: >-

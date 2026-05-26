@@ -1,0 +1,19 @@
+ddrg:
+  short: "Data-driven geometry"
+  full: "Data-driven Riemannian geometry"
+  color: "theme-ddrg"
+
+rrl:
+  short: "Representation learning"
+  full: "Riemannian representation learning"
+  color: "theme-rrl"
+
+odm:
+  short: "Manifold optimization"
+  full: "Optimization on data manifolds"
+  color: "theme-odm"
+
+apps:
+  short: "Applications"
+  full: "Applications"
+  color: "theme-apps"
