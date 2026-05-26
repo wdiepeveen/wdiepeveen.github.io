@@ -2,7 +2,7 @@
 title: "Manifold Learning with Normalizing Flows: Towards Regularity, Expressivity and Iso-Riemannian Geometry"
 date: 2025-07-01 00:01:00 +0800
 selected: true
-themes: [ddrg,rrl,odm]
+themes: [ddrg,rrl]
 pub: "Preprint"
 pub_date: "2025"
 abstract: >-
