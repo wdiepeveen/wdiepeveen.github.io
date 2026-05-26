@@ -27,8 +27,6 @@ short_bio: >-
 
 
 portrait_url: /assets/images/photos/portrait.jpg  # Replace with your actual portrait location
-portrait_caption: >-
-  (Optional caption)
 
 education:
 - name: University of Cambridge
