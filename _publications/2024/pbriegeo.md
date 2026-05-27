@@ -2,7 +2,7 @@
 title: "Pulling Back Symmetric Riemannian Geometry for Data Analysis"
 date: 2024-09-01 00:01:00 +0800
 selected: true
-themes: [ddrg,rrl]
+themes: [ddrg,rrl,odm]
 pub: "Preprint"
 pub_date: "2024"
 abstract: >-
