@@ -88,6 +88,12 @@
                         </a>
                         {% endif %}
 
+                        {% if site.data.profile.cv %}
+                        <a class="pr-3 no-break" target="_blank" href="{{ site.data.profile.cv | relative_url }}">
+                            <i class="fas fa-file-alt"></i> CV
+                        </a>
+                        {% endif %}
+
                         {% if site.data.profile.orcid %}
                         <a class="pr-3 no-break" target="_blank" href="https://orcid.org/{{ site.data.profile.orcid }}">
                             <i class="fab fa-orcid"></i> ORCID
