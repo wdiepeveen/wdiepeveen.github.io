@@ -16,13 +16,16 @@ twitter:  WillemDiepev1
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  I am a Hedrick Assistant Adjunct Professor in the <a href="https://www.math.ucla.edu/">Department of Mathematics</a> at UCLA, hosted by <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a> and <a href="https://www.math.ucla.edu/~bertozzi/">Andrea Bertozzi</a>, where I also work closely with <a href="https://www.oscarleong.com/home">Oscar Leong</a>. Previously, I completed my PhD at <a href="https://www.cam.ac.uk/">University of Cambridge</a>, supervised by <a href="https://www.damtp.cam.ac.uk/people/cbs31/">Carola-Bibiane Schonlieb</a>, and hold a double MSc from <a href="https://www.tudelft.nl/en/">TU Delft</a> and <a href="https://www.tu.berlin/en/">TU Berlin</a>, and a double BSc from <a href="https://www.tudelft.nl/en/">TU Delft</a>. 
+  I am a Hedrick Assistant Adjunct Professor in the <a href="https://www.math.ucla.edu/">Department of Mathematics</a> at UCLA, hosted by <a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a> and <a href="https://www.math.ucla.edu/~bertozzi/">Andrea Bertozzi</a>, where I also work closely with <a href="https://www.oscarleong.com/home">Oscar Leong</a>. Previously, I completed my PhD at <a href="https://www.cam.ac.uk/">University of Cambridge</a>, supervised by <a href="https://www.damtp.cam.ac.uk/people/cbs31/">Carola-Bibiane Schönlieb</a>, and hold a double MSc from <a href="https://www.tudelft.nl/en/">TU Delft</a> and <a href="https://www.tu.berlin/en/">TU Berlin</a>, and a double BSc from <a href="https://www.tudelft.nl/en/">TU Delft</a>. 
   </p>
   <p>
-  My research bridges Riemannian geometry, machine learning, and signal processing, which I use to develop <strong>interpretable and theory-grounded machine learning approaches</strong> for inverse problems, manifold learning, and data-driven modeling in the sciences.
+  My research lies at the interface of <strong>Riemannian geometry, signal processing, and machine learning</strong>, with a focus on developing geometric algorithms for inverse problems, scientific data analysis, and high-dimensional inference. I aim for methods that are both <strong>theoretically grounded and practically effective</strong>, and that provide <strong>robustness and interpretability</strong> where black-box models often fall short.
   </p>
   <p>
-  Beyond research, I enjoy teaching mathematics at UCLA, mentoring graduate and undergraduate students, and engaging in interdisciplinary collaborations. I am also an avid sailor, hiker, skier and snowboarder, and a classics and poetry enthusiast.
+  I am currently <strong>on the academic job market</strong> for faculty positions in mathematics, applied mathematics, and related interdisciplinary areas.
+  </p>
+  <p>
+  Beyond research, I enjoy teaching mathematics at UCLA, mentoring graduate and undergraduate students, and engaging in interdisciplinary collaborations. I am also an avid hiker, swimmer, sailor, skier and snowboarder, and a classics and poetry enthusiast.
   </p>
 
 
@@ -34,7 +37,7 @@ education:
   position: >
     PhD Mathematics <br/>
     Thesis: Riemannian Geometry for Inverse Problems in Cryogenic Electron Microscopy <br/>
-    Advisor: Carola-Bibiane Schonlieb
+    Advisor: Carola-Bibiane Schönlieb
   date: Oct 2020 – Jun 2024
 - name: TU Delft & TU Berlin (double degree)
   logo: /assets/images/badges/TUBerlin-logo.png

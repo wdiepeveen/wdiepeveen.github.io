@@ -1,7 +1,7 @@
 ---
 title: "Curvature Corrected Tangent Space-based Approximation of Manifold-valued Data"
 date: 2025-12-05 00:01:00 +0800
-selected: true
+selected: false
 themes: [rrl]
 pub: " Information and Inference: A Journal of the IMA"
 pub_date: "2025"
