@@ -2,7 +2,7 @@
 title: "Riemannian AmbientFlow: Towards Simultaneous Manifold Learning and Generative Modeling from Corrupted Data"
 date: 2026-01-26 00:01:00 +0800
 selected: false
-themes: [ddrg,odm]
+themes: [ddrg]
 pub: "Preprint"
 pub_date: "2026"
 abstract: >-

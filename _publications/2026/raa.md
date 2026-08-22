@@ -2,7 +2,7 @@
 title: "Riemannian Archetypal Analysis: Interpretable Non-linear Data Analysis on Deformed Star Distributions."
 date: 2026-05-26 00:01:00 +0800
 selected: true
-themes: [ddrg,rrl,odm]
+themes: [ddrg,rrl]
 pub: "Preprint"
 pub_date: "2026"
 abstract: >-
