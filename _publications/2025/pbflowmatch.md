@@ -12,7 +12,7 @@ authors:
 - Friso de Kruiff
 - Erik J Bekkers
 - Ozan Oktem
-- Carola-Bibiane Schonlieb
+- Carola-Bibiane Schönlieb
 - Willem Diepeveen
 links:
   Paper: https://openreview.net/forum?id=Z4NlzdKNid&referrer=%5Bthe%20profile%20of%20Willem%20Diepeveen%5D(%2Fprofile%3Fid%3D~Willem_Diepeveen1)

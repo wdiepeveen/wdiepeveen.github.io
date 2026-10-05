@@ -11,7 +11,7 @@ authors:
 - Willem Diepeveen
 - Jan Lellmann
 - Ozan Oktem
-- Carola-Bibiane Schonlieb
+- Carola-Bibiane Schönlieb
 links:
   Paper: https://epubs.siam.org/doi/abs/10.1137/22M1520773
   Code: https://github.com/wdiepeveen/Cryo-EM

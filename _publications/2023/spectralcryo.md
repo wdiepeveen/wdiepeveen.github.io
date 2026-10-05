@@ -11,7 +11,7 @@ authors:
 - Carlos Esteve-Yague
 - Willem Diepeveen
 - Ozan Oktem
-- Carola-Bibiane Schonlieb
+- Carola-Bibiane Schönlieb
 links:
   Paper: https://iopscience.iop.org/article/10.1088/1361-6420/acb2ba/meta
 ---

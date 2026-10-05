@@ -12,7 +12,7 @@ authors:
 - Willem Diepeveen*
 - Georgios Batzolis*
 - Zakhar Shumaylov
-- Carola-Bibiane Schonlieb
+- Carola-Bibiane Schönlieb
 links:
   Paper: https://openreview.net/forum?id=AJN5btaqNk
   Code: https://github.com/GBATZOLIS/Score-Based-Pullback-Riemannian-Geometry
